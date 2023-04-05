@@ -1,6 +1,9 @@
 # !! WARNING !!
 This is all very in-development. Don't expect things to just work out of the box at the moment. This **has** soft-bricked boards previously, so if you are not prepared to deal with that, don't install this at the moment.
 
+## Fork Info 
+This fork was made due to the actions tab on the original repository being expired. The two applications and one file that you need to install this firmware are published in the Releases panel.
+
 ## Controller Modes
 Rather than the conventional concept of "modes", the different input methods can be indepentendly toggled.
 
