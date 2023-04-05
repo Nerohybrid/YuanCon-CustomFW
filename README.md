@@ -4,6 +4,16 @@ This is all very in-development. Don't expect things to just work out of the box
 ## Fork Info 
 This fork was made due to the actions tab on the original repository being expired. The two applications and one file that you need to install this firmware are published in the Releases panel.
 
+## How to install 
+Go to the releases tab and download firmware.bin, YuanCon-CFWConfig.exe, YuanCon-UpdateTool.exe, and Source code(zip)
+Extract the source code zip 
+Place the three other files into YuanCon-CustomFW-master folder
+Run YuanCon-UpdateTool.exe
+Click choose firmware, then select firmware.bin
+Plug in your Yuancon
+Press Flash
+A message will pop up telling you that the flash is complete, the CFW has been installed 
+To edit CFW settings, run YuanCon-CFWConfig.exe
 ## Controller Modes
 Rather than the conventional concept of "modes", the different input methods can be indepentendly toggled.
 
